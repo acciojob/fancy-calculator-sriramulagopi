@@ -2,4 +2,4 @@
 let a = parseInt(prompt());
 let b = parseInt(prompt());
 let result = a*2+b;
-alert(result);
+alert("The final result is: " + result);
